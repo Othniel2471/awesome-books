@@ -2,6 +2,10 @@ h1 {
   color: #333;
 }
 
+p {
+    text-transform: capitalize;
+}
+
 form {
     display: flex;
     flex-direction: column;
