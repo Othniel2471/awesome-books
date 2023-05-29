@@ -1,3 +1,14 @@
 h1 {
-  color: pink;
+  color: #333;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    width: 20%;
+}
+
+.add {
+    width: 20%;
 }
