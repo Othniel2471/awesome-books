@@ -66,8 +66,10 @@ const displayItem = () => {
 };
 
 (function onReload() {
-  const allBooks = JSON.parse(localStorage.getItem('books'));
-  displayBooks(allBooks);
+  if (localStorage.getItem('books')) {
+    const allBooks = JSON.parse(localStorage.getItem('books'));
+    displayBooks(allBooks);
+  }
 }());
 
 form.addEventListener('submit', (e) => {
