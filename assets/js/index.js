@@ -50,11 +50,9 @@ class Books {
     const books = JSON.parse(localStorage.getItem('books'));
     const bookContainer = document.querySelector('.books-container');
     const displaybook = book.map((item) => `
-            <div id="book" data-title="${item.title}">
-              <p>${item.title}</p>
-              <p>${item.author}</p>
-              <button class="remove">Remove</button>
-              <hr>
+            <div id="book" class="books" data-title="${item.title}">
+              <p>"${item.title}" by ${item.author}</p>
+              <button type='button' class="remove">remove</button>
               </div>
               `).join('');
 
