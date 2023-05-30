@@ -153,13 +153,14 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author**
+👤 **Author - OMAIDU OTHNIEL**
 
 
 - GitHub: (https://github.com/othniel2471)
 - Twitter: (https://twitter.com/@Oomaidu)
 - LinkedIn: (https://www.linkedin.com/in/othniel-omaidu-3350a9164)
 
+👤 **Author - MARVIN OTIENO**
 
 - GitHub: (https://github.com/marvin-nyalik)
 - Twitter: (https://twitter.com/)
