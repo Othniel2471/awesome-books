@@ -14,11 +14,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
-- [Loom-Walkthrough](#loom-walkthrough) 
+  - [Install](#install)
+   - [Usage](#usage)
 - [👥 Authors](#authors)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -51,7 +51,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- - [Live Demo Link](https://othniel2471.github.io/capstone-html-css/index.html) -->
 
 <!-- GETTING STARTED -->
 
@@ -85,6 +84,9 @@ Example commands:
   git clone https://github.com/Othniel2471/awesome-books.git
 ```
 --->
+
+### Install
+ To Install this project, follow the steps below:
 
 ## Install Linters
 
@@ -147,6 +149,11 @@ If you think that change is necessary - open a Pull Request in this repository a
 
 6. **IMPORTANT NOTE:** feel free to research auto-correct options for Stylelint if you get a flood of errors but keep in mind that correcting style errors manually will help you to make a habit of writing a clean code!
 
+### Usage
+To run the project:
+- After cloning the project, open it in a code editor of your choice.
+- If you're using Vs code you can run with live server by installing the  live server extension
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -165,6 +172,16 @@ If you think that change is necessary - open a Pull Request in this repository a
 - GitHub: (https://github.com/marvin-nyalik)
 - Twitter: (https://twitter.com/NyalikMarvin)
 - LinkedIn: (https://www.linkedin.com/in/marvin-otieno-05ba83263/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🔭 Future Features <a name="future-features"></a>
+
+> Describe 1 - 3 features you will add to the project.
+
+- [ A navigation section ] **[A navigation section]**
+- [ A contact page ] **[A contact page]**
+- [ A separate page for the add function and display function] **[A separate page for the add function and display function]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
