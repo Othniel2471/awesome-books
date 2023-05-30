@@ -20,6 +20,7 @@
   - [Install](#install)
    - [Usage](#usage)
 - [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
   -- [🙏 Acknowledgements](#acknowledgements)
@@ -179,9 +180,9 @@ To run the project:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ A navigation section ] **[A navigation section]**
-- [ A contact page ] **[A contact page]**
-- [ A separate page for the add function and display function] **[A separate page for the add function and display function]**
+- [ ] **[A navigation section]**
+- [ ] **[A contact page]**
+- [ ] **[A separate page for the add function and display function]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
