@@ -163,8 +163,8 @@ If you think that change is necessary - open a Pull Request in this repository a
 👤 **Author - MARVIN OTIENO**
 
 - GitHub: (https://github.com/marvin-nyalik)
-- Twitter: (https://twitter.com/)
-- LinkedIn: (https://www.linkedin.com/in/)
+- Twitter: (https://twitter.com/NyalikMarvin)
+- LinkedIn: (https://www.linkedin.com/in/marvin-otieno-05ba83263/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
