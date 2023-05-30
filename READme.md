@@ -180,9 +180,9 @@ To run the project:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[A navigation section]**
-- [ ] **[A contact page]**
-- [ ] **[A separate page for the add function and display function]**
+- [A navigation section ] **[]**
+- [A contact page] **[]**
+- [A separate page for the add function and display function ] **[]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
