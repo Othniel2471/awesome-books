@@ -27,9 +27,9 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-# 📖 [Concert-site] <a name="Portfolio-site"></a>
+# 📖 AWESOME BOOKS <a name="Portfolio-site"></a>
 
-**[Concert-site]** This is a simple single app built with html,css and javascript, it eneables users to add books and delete books of their choice.
+**Awesome books** This is a simple single app built with html,css and javascript, it eneables users to add books and delete books of their choice.
 
 ## 🛠 Built With <a name="built-with"></a>
 <details>
@@ -47,8 +47,6 @@
 -add books
 -remove books
 -displays books dynamically from javascript.
-
-- **[Demo on what is linters and how it works]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -178,11 +176,9 @@ To run the project:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-
-
-- [ ] **[A navigation section]**
-- [ ] **[A contact page]**
-- [ ] **[A separate page for the add function and display function]**
+- [ ] **A navigation section**
+- [ ] **A contact page**
+- [ ] **A separate page for the add function and display function**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
