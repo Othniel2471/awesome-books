@@ -1,3 +1,94 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,500;1,400&display=swap');
+
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+h1,
+h2 {
+  color: #333;
+  text-align: center;
+  text-transform: capitalize;
+}
+
+hr {
+  border: 2px solid #000;
+}
+
+p {
+  text-transform: capitalize;
+}
+
+.book-section {
+  margin-top: 2rem;
+  display: grid;
+  place-items: center;
+  gap: 10px;
+}
+
+.books-container {
+  width: 80%;
+  border: 2px solid black;
+  margin: 10px 15px;
+  padding: 10px;
+}
+
+#books {
+  display: flex;
+  width: 100%;
+  padding: 10px;
+  justify-content: space-between;
+}
+
+.books:nth-child(even) {
+  background-color: #ddd;
+}
+
+.books:nth-child(odd) {
+  background-color: #fff;
+}
+
+.remove {
+  background-color: #fff;
+  text-transform: capitalize;
+  padding: 5px;
+  border: 2px solid #000;
+  border-right: 4px solid #000;
+  border-bottom: 4px solid #000;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input {
+  width: 15rem;
+  border: 2px solid #000;
+  border-left: 4px solid #000;
+  padding: 0.2rem;
+}
+
+.add {
+  width: 3rem;
+  background-color: #fff;
+  text-transform: capitalize;
+  padding: 5px;
+  border: 2px solid #000;
+  border-right: 4px solid #000;
+  border-bottom: 4px solid #000;
+  align-self: flex-end;
+} */
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,500;1,400&display=swap');
 
 *,
@@ -47,6 +138,13 @@ p {
   display: flex;
   padding: 10px;
   justify-content: space-between;
+}
+
+#book {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  margin-bottom: 2px;
 }
 
 .books:nth-child(even) {
