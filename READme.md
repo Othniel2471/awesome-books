@@ -172,17 +172,17 @@ To run the project:
 
 - GitHub: (https://github.com/marvin-nyalik)
 - Twitter: (https://twitter.com/NyalikMarvin)
-- LinkedIn: (https://www.linkedin.com/in/marvin-otieno-05ba83263/)
+- LinkedIn: (https://www.linkedin.com/in/marvin-otieno-05ba83263/)  
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
-- [A navigation section ] **[]**
-- [A contact page] **[]**
-- [A separate page for the add function and display function ] **[]**
+
+- [ ] **[A navigation section]**
+- [] **[A contact page]**
+- [ ] **[A separate page for the add function and display function]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
