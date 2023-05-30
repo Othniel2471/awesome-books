@@ -181,7 +181,7 @@ To run the project:
 
 
 - [ ] **[A navigation section]**
-- [] **[A contact page]**
+- [ ] **[A contact page]**
 - [ ] **[A separate page for the add function and display function]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
