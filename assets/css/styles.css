@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,500;1,400&display=swap');
 
-
 *,
 ::after,
 ::before {
@@ -14,12 +13,14 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
-h1,h2 {
+h1,
+h2 {
   color: #333;
   text-align: center;
   text-transform: capitalize;
 }
-hr{
+
+hr {
   border: 2px solid #000;
   width: 7rem;
 }
@@ -37,9 +38,9 @@ p {
 
 .books-container {
   width: 80%;
-    border: 2px solid black;
-    margin: 10px 15px;
-    padding: 10px;
+  border: 2px solid black;
+  margin: 10px 15px;
+  padding: 10px;
 }
 
 .books {
