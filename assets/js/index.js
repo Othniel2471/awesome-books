@@ -95,4 +95,3 @@ class Books {
 }
 
 Books.initialize();
- s
