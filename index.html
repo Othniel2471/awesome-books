@@ -9,40 +9,52 @@
     <link rel="stylesheet" href="./assets/css/styles.css">
 </head>
 <body>
+    <header>
+        <nav id="nav">
+            <a class="logo">Awesome Books</a>
+            <ul>
+                <li class="nav-links list"> List</li>
+                <li class="nav-links new">Add New</li>
+                <li class="nav-links contact"> Contact </li>
+            </ul>
+        </nav>
+        <p id="date"></p>
+    </header>
     <main>
-        <header>
-            <nav id="nav">
-                <a class="logo">Awesome Books</a>
-                <ul>
-                    <li><a href="#"> List | </a></li>
-                    <li><a href="#"> Add New | </a></li>
-                    <li><a href="#"> Contact </a></li>
-                </ul>
-            </nav>
-            <p id="date"></p>
-        </header>
-        <section class="book-section">
-            <h1>all awesome books</h1>
-            <div class="books-container">
+        <section class="book-section active">
+            <div class="book-container">
+                <h1>all awesome books</h1>
+                <div class="books-container">
 
+                </div>
             </div>
-            <hr>
-            <h2>add a new book</h2>
-            <form>
-                <input type="text" class="title" placeholder="Title" required>
-                <input type="text" class="author" placeholder="Author" required>
-                <button class="add">Add</button>
-            </form>
         </section>
 
-        <section class="form">
-
+        <section class="form-section non-active">
+            <div class="form-container">
+                <h2>add a new book</h2>
+                <form>
+                    <input type="text" class="title" placeholder="Title" required>
+                    <input type="text" class="author" placeholder="Author" required>
+                    <button class="add">Add</button>
+                </form>
+            </div>
         </section>
 
-        <section class="contact">
-            
+        <section class="contact-section non-active">
+            <div class="contact-container">
+                <h2>contact information</h2>
+                <p>Do you have any questions or you just to say "Hello"?</p>
+                <p>You ca reach out to us!</p>
+                <ul>
+                    <li>Our e-mail mail@mail.com</li>
+                    <li>Our phone number 004586534422</li>
+                    <li>Our address streetname 22,84503 City,Country</li>
+                </ul>
+            </div>
         </section>
     </main>
+
     <footer>
         <p>Copyright &copy;2023 awesome.books.studio</p>
     </footer>
