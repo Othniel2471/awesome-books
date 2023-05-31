@@ -13,6 +13,51 @@ body {
   font-family: 'Poppins', sans-serif;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+}
+
+#nav {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid #000;
+  height: 8vh;
+  align-items: center;
+  width: 95%;
+  margin: 0.5rem auto;
+}
+
+#nav .logo {
+  cursor: pointer;
+  text-decoration: none;
+  color: #000;
+  margin-left: 2%;
+}
+
+#nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+#nav ul li {
+  width: auto;
+  margin-right: 1rem;
+  list-style-type: none;
+}
+
+#nav ul li a {
+  text-decoration: none;
+  color:#000;
+}
+
+#date {
+  width: 95%;
+  margin: 2px auto;
+  display: flex;
+  justify-content: flex-end;
+}
+
 h1,
 h2 {
   color: #333;
@@ -95,4 +140,17 @@ input {
   border-right: 4px solid #000;
   border-bottom: 4px solid #000;
   align-self: flex-end;
+}
+
+footer {
+  display: flex;
+  border: 2px solid #000;
+  width: 95%;
+  margin: 2px auto;
+}
+
+footer p {
+  display: flex;
+  width: 100%;
+  justify-content: center;
 }
